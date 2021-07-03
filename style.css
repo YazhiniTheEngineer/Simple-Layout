@@ -442,6 +442,14 @@
   padding: 10px 30px;
   font-size: 15px;
 }
+@media all and (max-width:500px){
+  .form{
+    width:100%;
+  }
+  .form-row{
+    flex-direction: column;
+  }
+}
 
 /* Section 7 Footer */
 .footer{
