@@ -19,7 +19,7 @@
     padding: 0 15px;
     position: fixed;
     width: 100%;
-    height: calc(100% - 560px);
+    height: calc(100% - 200px);
   }
   a {
     color: white;
